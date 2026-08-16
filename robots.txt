@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-t261n8.bokupaybymobilecasino.co.uk/sitemap.xml
